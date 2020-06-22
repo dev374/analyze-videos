@@ -1,0 +1,107 @@
+{
+  "AssetFile": [
+    {
+      "VideoTracks": [
+        {
+          "FourCC": "avc1",
+          "Profile": "Main",
+          "Level": "5.0",
+          "PixelFormat": "yuv420p",
+          "Width": "1920",
+          "Height": "1080",
+          "DisplayAspectRatioNumerator": 16.0,
+          "DisplayAspectRatioDenominator": 9.0,
+          "SampleAspectRatioNumerator": 1.0,
+          "SampleAspectRatioNumeratorSpecified": true,
+          "SampleAspectRatioDenominator": 1.0,
+          "SampleAspectRatioDenominatorSpecified": true,
+          "FrameRate": 29.970,
+          "Bitrate": 35041924,
+          "BitrateSpecified": true,
+          "HasBFramesSpecified": true,
+          "Disposition": {
+            "Default": 1
+          },
+          "Metadata": [
+            {
+              "key": "language",
+              "value": "und"
+            },
+            {
+              "key": "handler_name",
+              "value": "VideoHandler"
+            }
+          ],
+          "Id": 1,
+          "Codec": "h264",
+          "CodecLongName": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "TimeBase": "1/30000",
+          "NumberOfFrames": 2041,
+          "NumberOfFramesSpecified": true,
+          "StartTime": "PT0S",
+          "Duration": "PT1M8.1S"
+        }
+      ],
+      "AudioTracks": [
+        {
+          "SampleFormat": "fltp",
+          "ChannelLayout": "stereo",
+          "Channels": 2,
+          "SamplingRate": 44100,
+          "Bitrate": 195756,
+          "BitrateSpecified": true,
+          "BitsPerSampleSpecified": true,
+          "Disposition": {
+            "Default": 1
+          },
+          "Metadata": [
+            {
+              "key": "language",
+              "value": "und"
+            },
+            {
+              "key": "handler_name",
+              "value": "SoundHandler"
+            }
+          ],
+          "Id": 2,
+          "Codec": "aac",
+          "CodecLongName": "AAC (Advanced Audio Coding)",
+          "TimeBase": "1/44100",
+          "NumberOfFrames": 2930,
+          "NumberOfFramesSpecified": true,
+          "StartTime": "PT0S",
+          "Duration": "PT1M8.034S"
+        }
+      ],
+      "Metadata": [
+        {
+          "key": "major_brand",
+          "value": "isom"
+        },
+        {
+          "key": "minor_version",
+          "value": "512"
+        },
+        {
+          "key": "compatible_brands",
+          "value": "isomiso2avc1mp41"
+        },
+        {
+          "key": "encoder",
+          "value": "Lavf58.12.100"
+        }
+      ],
+      "Name": "devnet.mp4",
+      "Uri": "https://devnetstordw.blob.core.windows.net/asset-d3b308f1-cbe3-40af-8f8d-6ec8dc27f830/devnet.mp4",
+      "Size": 300018480,
+      "Duration": "PT1M8.1S",
+      "NumberOfStreams": 2,
+      "FormatNames": "mov,mp4,m4a,3gp,3g2,mj2",
+      "FormatVerboseName": "QuickTime / MOV",
+      "StartTime": "PT0S",
+      "OverallBitRate": 35244461,
+      "OverallBitRateSpecified": true
+    }
+  ]
+}
